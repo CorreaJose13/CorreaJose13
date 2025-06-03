@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Jose  
-**Civil Engineering Student | Aspiring Web Developer**  
+**Civil Engineering Student | Web Developer**  
 
 I’m passionate about combining my technical background in civil engineering with my growing expertise in software development to create innovative solutions. Currently, I’m transitioning into the tech industry, where I aim to apply my problem-solving skills and dedication to building impactful projects.  
 
